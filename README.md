@@ -1,5 +1,9 @@
 # pig-game
 
+Link: 
+
+Technologies: HTML/CSS & JavaScript
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
