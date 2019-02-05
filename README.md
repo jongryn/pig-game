@@ -1,6 +1,6 @@
 # pig-game
 
-Link: 
+Link: https://jongryn.github.io/pig-game/
 
 Technologies: HTML/CSS & JavaScript
 
